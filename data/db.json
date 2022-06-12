@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 2,
+      "title": "note2",
+      "author": "sharvari",
+      "body": "this is note 22222"
+    },
+    {
+      "id": 3,
+      "author": "yash again",
+      "title": "note3",
+      "body": "this is note 3"
+    },
+    {
+      "title": "some title",
+      "body": "hello my name is yash and i like sharvari",
+      "author": "mario",
+      "id": 4
+    }
+  ]
+}
